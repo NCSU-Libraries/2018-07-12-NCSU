@@ -306,7 +306,7 @@ and our administrator may contact you if we need any extra information.</h4>
 
   <p>
     Bash is a commonly-used shell that gives you the power to do simple
-	tasks more quickly. <br /><b><i>Note:</b> UNIX shell is not fully supported on Windows.  You can try using Windows for the UNIX shell exercises, but you may get different results than the rest of the class.  Alternatively, you can use the NCSU VCL (https://vcl.ncsu.edu) to reserve and use a Linux virtual computer.  If you do not have Linux or VCL experience, this will be an excellent opportunity to learn about both.</i>
+	tasks more quickly. </p><p><b><i>Note:</b> UNIX shell is not fully supported on Windows.  You can try using Windows for the UNIX shell exercises, but you may get different results than the rest of the class.  Alternatively, you can use the NCSU VCL (https://vcl.ncsu.edu) to reserve and use a Linux virtual computer.  If you do not have Linux or VCL experience, this will be an excellent opportunity to learn about both.</i>
   </p>
 
   <div class="row">
